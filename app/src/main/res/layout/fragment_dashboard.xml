@@ -1,13 +1,197 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.myhealth.Fragment.Dashboard">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.myhealth.Fragment.Dashboard"
+    android:background="#FFCC80"
+    android:orientation="vertical">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+<android.support.v7.widget.CardView
+    android:background="#FFFFFF"
+    android:layout_marginTop="30dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardElevation="2dp"
+    app:cardCornerRadius="2dp">
+
+    <LinearLayout
+        android:layout_margin="15dp"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:orientation="horizontal">
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="1">
+     <TextView
+         android:layout_margin="5dp"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:text="MY WEIGHT" />
+        <LinearLayout
+            android:layout_margin="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="20sp"
+            android:text="155"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="/6 LBS LEFT"/>
+        </LinearLayout>
+        <TextView
+            android:layout_margin="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TOTAL STEPS"/>
 
-</FrameLayout>
+        <LinearLayout
+            android:layout_margin="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20sp"
+                android:text="66"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="/3000 STEPS"/>
+        </LinearLayout><TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""/>
+    </LinearLayout>
+        <LinearLayout
+            android:layout_margin="10dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="1">
+            <TextView
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="My Weight Goal"/>
+
+            <TextView
+                android:layout_margin="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="LOGGING STREAK"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>
+<android.support.v7.widget.CardView
+    android:background="#FFFFFF"
+    android:layout_marginTop="30dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Today"
+        android:layout_gravity="center"
+        android:layout_margin="2dp"
+        android:gravity="center"/>
+        <view
+            android:layout_margin="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/line"></view>
+        <LinearLayout
+            android:layout_margin="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:textSize="20sp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="6"/>
+            <TextView
+                android:layout_marginLeft="2dp"
+                android:layout_gravity="bottom"
+                android:gravity="bottom"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="lbs to go"/>
+        </LinearLayout>
+        <TextView
+            android:layout_margin="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="155 lbs"/>
+        <view
+            android:layout_margin="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/line"></view>
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1333 calories eaten,667 cal left"/>
+
+        <view
+            android:layout_margin="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/line"></view>
+        <LinearLayout
+            android:layout_margin="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:textSize="20sp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="33"/>
+            <TextView
+                android:layout_marginLeft="2dp"
+                android:layout_gravity="bottom"
+                android:gravity="bottom"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Active mins"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_margin="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:textSize="20sp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="66"/>
+            <TextView
+                android:layout_marginLeft="2dp"
+                android:layout_gravity="bottom"
+                android:gravity="bottom"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="steps"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>
+</LinearLayout>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/cc/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_eb8cdaa57fd267671254497e5020ae8a69fd0ccf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_08cfe5bee4fd51457fa5f85811b965a7495c3858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_82775c0420754409d41348f83e2baf00ce8ec6d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_b3bf54fbd31b324109e0a6afd62b4d85d176e457.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7a2164da8233d5f1268c517d4cd687da468bbd93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_4df0f26f7f80293e3fdc423fbc8d8c1676f8e0de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_711b0466c95342163ff97eed6018e89c134af29a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_2bf6d379a5409fa829de41bc28ed4b72e0259e30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_54542ebadcdf44686b08c80d962b3b3e1561bde0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_34493437572eee1aac0e0920ae3c55709e8c68a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_7c528d80c99a831a11cbc6bad29a3f3217e01dc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_83c608e99321c2f9c43bc44e0697353e4abdece9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_d86b2c73b03d819eb7be0f3294521302aff5945e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0ea8c4191eb2f328186572ff5cb455b593cde8e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_48b245084fb5f1effb180a668a7d76c809cf6c8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bfae93be5268f9f0c71caaa723828c8c11e24e76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_4feccf57511eff4b7015078f8046a2e3585c5e0d.jar" />
+    </item>
+
+</items>
