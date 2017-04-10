@@ -3,15 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="/home/cc/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_eb8cdaa57fd267671254497e5020ae8a69fd0ccf.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -102,6 +93,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.1_8dcc5611abf9ccf29ca7be2d7463485f36482b8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -144,6 +144,15 @@
         revision="24.0.3"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
         <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bfae93be5268f9f0c71caaa723828c8c11e24e76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/cc/AndroidStudioProjects/MyHealth/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_51c7fe36627c5122a05a17e4daad73e4bdcca906.jar" />
     </item>
     <item
         is-multidex="false"
